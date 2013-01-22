@@ -1,0 +1,3 @@
+[10-Oct-2011 23:33:11] PHP Fatal error:  Call to undefined function wp_categories_dropdown() in /home/aa753a43/public_html/wp-content/plugins/guestblognetwork/server/get_cat_dropdown.php on line 21
+[10-Oct-2011 23:33:31] PHP Fatal error:  Call to undefined function wp_dropdown_categories() in /home/aa753a43/public_html/wp-content/plugins/guestblognetwork/server/get_cat_dropdown.php on line 21
+[11-Oct-2011 01:05:31] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/aa753a43/public_html/wp-content/plugins/guestblognetwork/server/get_cat_dropdown.php on line 36

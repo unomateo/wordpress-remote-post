@@ -1,0 +1,4 @@
+[22-Sep-2011 20:28:45] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/aa753a43/public_html/wp-content/plugins/guestblognetwork/inc/get_remote_child.php on line 11
+[22-Sep-2011 21:00:17] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/aa753a43/public_html/wp-content/plugins/guestblognetwork/inc/get_remote_child.php on line 14
+[22-Sep-2011 21:00:39] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/aa753a43/public_html/wp-content/plugins/guestblognetwork/inc/get_remote_child.php on line 14
+[22-Sep-2011 21:02:45] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/aa753a43/public_html/wp-content/plugins/guestblognetwork/inc/get_remote_child.php on line 14
